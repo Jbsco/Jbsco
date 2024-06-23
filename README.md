@@ -1,4 +1,4 @@
-# Hello. I am Jbsco.
+# Hello. I am Jacob Seman.
 
 I am an electrical & computer engineering student at [University of Colorado Boulder](https://github.com/CuBoulder) working as an intern flight software engineer at [LASP](https://github.com/lasp). I am passionate about embedded programming, control, and telemetry. In my free time I enjoy exploring open source projects, astrophotography, and flying RC aircraft.<br /><br />
 <p>
